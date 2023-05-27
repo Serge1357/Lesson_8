@@ -10,3 +10,5 @@ def test_function(x)
 	y = x+2
 	z = y-3
 	return z
+
+print (test_function(3))
